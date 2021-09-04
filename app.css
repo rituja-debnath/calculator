@@ -1,0 +1,60 @@
+body{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+h1{
+    color: white;
+}
+.total{
+    text-align: center;
+    margin-top: 40px;
+}
+table{
+    margin: auto;
+}
+button{
+    background-color: rgb(231, 221, 221);
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.233) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+#show{
+    width: 415px;
+    margin-bottom: 10px;
+    height: 70px;
+    font-size: 29px;
+    border-radius: 10px;
+    outline: none;
+    background-color: black;
+    color:rgb(255, 254, 254);
+    padding-top: 20px;
+    text-align: right;
+}
+button:hover, button:focus{
+    background-color: rgba(158, 149, 149, 0.747);
+}
+#result{
+    background-color:#AEC6CF;
+}
+#result:hover, #result:focus{
+    background-color: cornflowerblue;
+}
+.operator{
+    background-color: rgba(169, 169, 169, 0.548);
+}
+.calculator{
+    text-align: center;
+    margin-top: 50px;
+    display: inline-block;
+    border: black solid 1px;
+    padding: 10px;
+    background-color: black;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.clear{
+    background-color: #FAA0A0;
+}
+.clear:focus, .clear:hover{
+    background-color: #ec5959;
+}
