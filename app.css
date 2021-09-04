@@ -15,12 +15,12 @@ table{
 button{
     background-color: rgb(231, 221, 221);
     font-size: 20px;
-    width: 100px;
+    width: 80px;
     height: 50px;
     box-shadow: rgba(0, 0, 0, 0.233) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 #show{
-    width: 415px;
+    width: 330px;
     margin-bottom: 10px;
     height: 70px;
     font-size: 29px;
